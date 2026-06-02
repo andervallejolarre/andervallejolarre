@@ -12,9 +12,9 @@ Full-stack developer (React, Node.js, React Native) with roots in digital arts a
 
 **[Cloning Front-end](https://github.com/andervallejolarre/04_ny_times)** — Front-end replication of the New York Times homepage (HTML + CSS) — focused on mastering grid/flexbox layouts, typographic hierarchy, and the structural complexity behind a large-scale editorial design.
 
-### WIP Personal Projects
+### WIP
 
-**[Trading Platform](https://github.com/andervallejolarre/plantatum)** — An ongoing hardware/software project combining Arduino-based biosensing, digital fabrication, and Pure Data to capture live bioelectrical signals from plants and map them into real-time generative art.
+**[Plantatum](https://github.com/andervallejolarre/plantatum)** — An ongoing hardware/software project combining Arduino-based biosensing, digital fabrication, and Pure Data to capture live bioelectrical signals from plants and map them into real-time generative art.
 
 ### Tech
 
