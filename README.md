@@ -10,6 +10,8 @@ Full-stack developer (React, Node.js, React Native) with roots in digital arts a
 
 ### Learning Exercises
 
+**[Task Manager API](https://github.com/andervallejolarre/task_manager_api)** - A REST API for user registration, authentication, and personal task management, built with TypeScript, Express, MongoDB, and JWT.
+
 **[Cloning Front-end](https://github.com/andervallejolarre/04_ny_times)** — Front-end replication of the New York Times homepage (HTML + CSS) — focused on mastering grid/flexbox layouts, typographic hierarchy, and the structural complexity behind a large-scale editorial design.
 
 ### WIP
@@ -18,10 +20,10 @@ Full-stack developer (React, Node.js, React Native) with roots in digital arts a
 
 ### Tech
 
-**Web:** React, Express, MongoDB, Vite, Vercel
+**Web:** JavaScript, TypeScript, React, Express, MongoDB, Vite, 
 **Mobile:** React Native/Expo
 **Creative Tech:** Processing, Max/MSP and Pure Data, Arduino, OSC/MIDI
-**Other:**  Three.js, Stripe, JWT, MongoDB Atlas
+**Other:** JWT, MongoDB Atlas, Jest, Supertest, Vercel. 
 
 <!--
 **AI/ML:** LLM integration (Gemini, OpenAI, Moonshot, Ollama), vector search, RAG
