@@ -9,7 +9,7 @@ Full-stack developer (React, Node.js, React Native) with roots in digital arts a
 **[LabelTracker](https://github.com/andervallejolarre/mobile_app_project)** — Mobile app (React-Native + Expo + express) that connects to the Discogs database, to search and follow record labels, browse a live feed of their latest releases, and build a personal library of saved labels and records.
 
 ### Learning Exercises
-**[Task Manager API (AI Re-Built)](https://github.com/andervallejolarre/task_manager_api_ai)**
+**[Task Manager API (AI Re-Built)](https://github.com/andervallejolarre/task_manager_api_ai)** - A rebuild of the hand-built Task Manager API, with a team of AI coding agents as an experiment in AI-driven development.
 
 **[Task Manager API](https://github.com/andervallejolarre/task_manager_api)** - A REST API for user registration, authentication, and personal task management, built with TypeScript, Express, MongoDB, and JWT.
 
